@@ -11,6 +11,7 @@ Below is the Entity Relationship Diagram used to visualize the relationships bet
 
 ### Future Openings
   - After the analysis was complete there is going to be a considerable amount of employees at retirement age holding senior titles. There is even a large number of employees in lower titled jobs retiring. There are a total of 303,024 employees curently working at Pewlett Hackard and 62,426 (around 20% of the current employees). Reference the table below.
+
 ![image](https://github.com/CodyMorin25/Pewlett-Hackard-Analysis/blob/main/Queries/Future_Openings.png)
 
 ### Mentorship Candidates
